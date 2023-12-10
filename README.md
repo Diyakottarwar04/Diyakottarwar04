@@ -1,5 +1,7 @@
 <h1 align="center">Heyy!!🙋‍♀️ I'm Diya Kottarwar</h1>
 <h3 align="center">Frontend Developer</h3>
+<img src="https://komarev.com/ghpvc/?username=diya200304&label=Profile%20views&color=0e75b6&style=flat" alt="diya200304" /> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diya200304&label=Profile%20views&color=0e75b6&style=flat" alt="diya200304" /> </p>
 
