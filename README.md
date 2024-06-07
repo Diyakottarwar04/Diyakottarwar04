@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Kottarwar</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-[image](https://github.com/Diyakottarwar04/Diyakottarwar04/assets/153450255/1f7079af-29f3-47c7-a88f-bdbfad1288be)
 
 
 
