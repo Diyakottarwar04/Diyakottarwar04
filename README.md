@@ -1,5 +1,5 @@
-<h1 align="center">🙋‍♀️ Diya Kottarwar</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 >🙋‍♀️ Diya Kottarwar</h1>
+<h3>Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
