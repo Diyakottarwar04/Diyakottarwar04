@@ -1,6 +1,6 @@
 <h1 >🙋‍♀️ Diya Kottarwar</h1>
 <h3>Frontend Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Web**
@@ -8,7 +8,7 @@
 - 📫 How to reach me **deeyakottarwar@gmail.com**
 
 - ⚡ Fun fact **Always try to learn new things**
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/diya_kottarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diya_kottarwar" height="30" width="40" /></a>
