@@ -8,6 +8,8 @@
 - 📫 How to reach me **deeyakottarwar@gmail.com**
 
 - ⚡ Fun fact **Always try to learn new things**
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+![image](https://github.com/Diyakottarwar04/Diyakottarwar04/assets/153450255/a8d4ba48-98a5-42ad-b5b9-3288837476c8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
