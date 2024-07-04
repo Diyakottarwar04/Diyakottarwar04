@@ -2,7 +2,7 @@
 <h3> Aspiring Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p>I'm an enthusiastic beginner in the world of frontend development, eager to bring innovative ideas to life through code. With a solid foundation in web technologies and a passion for learning, I'm on a journey to build visually appealing and user-friendly web applications</p>
-- 🌱 I’m currently learning JAVASCRIPT
+-🌱 I’m currently learning JAVASCRIPT
 
 - 💬 Ask me about WEB
 
