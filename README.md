@@ -1,5 +1,5 @@
-🙋‍♀️ Diya Kottarwar
-Aspiring Frontend Developer
+🙋‍♀️ <h1>Diya Kottarwar</h1><br>
+<h1>Aspiring Frontend Developer</h1>
 
 - 🌱 I’m currently learning **Javascript**
 
