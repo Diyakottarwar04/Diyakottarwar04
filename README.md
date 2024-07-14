@@ -5,7 +5,7 @@
 
 - 👨‍💻 Personal Portfolio [https://diyakottarwar04.github.io/Portfolio/](https://diyakottarwar04.github.io/Portfolio/)
 
-- 💬 Ask me about **Web**
+- 💬 Ask me about **WEB**
 
 - 📫 How to reach me **deeyakottarwar@gmail.com**
 
