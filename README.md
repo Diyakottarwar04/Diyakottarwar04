@@ -1,10 +1,10 @@
 <h1 align="center">🙋‍♀️ Hi, I'm Diya Kottarwar</h1>
-<h3 align="center">Aspiring Frontend Developer | Lifelong Learner</h3>
+<h3 align="center">Aspiring Frontend Developer </h3>
 
 ---
 
 🌱 Currently learning: **JavaScript**  
-👨‍💻 Portfolio: [Click here to view](https://portfolio-diya.vercel.app/)  
+👨‍💻 Portfolio: [portfolio](https://portfolio-diya.vercel.app/)  
 💬 Ask me about: **Web Development**  
 📫 Email: **deeyakottarwar@gmail.com**  
 ⚡ Fun fact: *I love exploring new tech every day!*
