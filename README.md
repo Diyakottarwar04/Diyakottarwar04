@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 Personal Portfolio [https://diyakottarwar04.github.io/Portfolio/](https://diyakottarwar04.github.io/Portfolio/)
+- 👨‍💻 Personal Portfolio https://diyakottarwar04.github.io/Portfolio/](https://portfolio-diya.vercel.app/))
 
 - 💬 Ask me about **WEB**
 
