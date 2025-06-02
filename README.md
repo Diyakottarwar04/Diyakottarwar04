@@ -7,7 +7,7 @@
 
 - 🎓 Currently learning: **JavaScript & React**
 - 🧑‍💻 Portfolio: [diya.vercel.app](https://portfolio-diya.vercel.app/)
-- 💬 Ask me about: **Web Development, Tailwind CSS, Angular**
+- 💬 Ask me about: **Web Development**
 - 📫 Reach me at: **deeyakottarwar@gmail.com**
 - ⚡ Fun fact: *I love exploring new tech every day!*
 
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> -->
 </p>
 
 ---
