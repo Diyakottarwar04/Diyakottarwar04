@@ -9,7 +9,7 @@
 - 🧑‍💻 Portfolio: [diya.vercel.app](https://portfolio-diya.vercel.app/)
 - 💬 Ask me about: **Web Development**
 - 📫 Reach me at: **deeyakottarwar@gmail.com**
-- ⚡ Fun fact: *I love exploring new tech every day!*
+- ⚡ Fun fact: *I love exploring new tech every day!
 
 ---
 
