@@ -42,16 +42,15 @@
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakottarwar04&layout=compact&theme=tokyonight" alt="Top Languages" />
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyakottarwar04&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyakottarwar04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=diyakottarwar04&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
+<!-- </p> -->
 
----
 
 ### 🧠 Fun Side Projects Coming Soon...
 
